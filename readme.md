@@ -162,9 +162,6 @@ these names:
 | 2    | 12  |B0_12    | 32  | Backside |OK|
 | 4    | 7   |EMC_07   | 33  | Backside |
 
-
-The EMC_XX pins will only work when https://github.com/bdkrae/zephyr/pull/4 is merged.
-
 **Example**
 
 Add the following lines to teensy40.overlay to access Teensy pin 9 under the name toggle_gpio:
@@ -195,13 +192,16 @@ the data that the UART received as follows:
 ```
 
 ## IDE
-Visual Studio Code works great and has good plugins for syntax highlighting, goto-definition, previewing and more:
+Visual Studio Code works great and has good plugins for syntax highlighting, goto-definition, previewing and more. Suggested plugins:
 - C/C++
 - Python
 - DeviceTree for Zephyr Project
 - RST Preview
 
 See: https://code.visualstudio.com/download
+
+## More examples
+If you want to learn more, continue reading at: https://github.com/ufechner7/teensy4_shell
 
 ## Questions?
 In case you have problems to run the above mentioned examples, please create an issue in this repository.
