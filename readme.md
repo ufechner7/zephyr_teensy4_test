@@ -147,8 +147,8 @@ these names:
 | 1    | 22  |AD_B1_06 | 17 / A3    | |OK|
 | 1    | 17  |AD_B1_01 | 18 / A4    | |OK|
 | 1    | 16  |AD_B1_00 | 19 / A5    | |OK|
-| 1    | 26  |AD_B1_10 | 20 / A6    |UART8_TX ||
-| 1    | 27  |AD_B1_11 | 21 / A7    |UART8_RX ||
+| 1    | 26  |AD_B1_10 | 20 / A6    |UART8_TX |OK|
+| 1    | 27  |AD_B1_11 | 21 / A7    |UART8_RX |OK|
 | 1    | 24  |AD_B1_08 | 22 / A8    | |OK|
 | 1    | 25  |AD_B1_09 | 23 / A9    | |OK|
 | 1    | 12  |AD_B0_12 | 24 / A10   | Backside |OK|
