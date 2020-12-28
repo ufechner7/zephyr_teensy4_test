@@ -127,8 +127,8 @@ The names and pin numbers used by the Teensy documentation, the schematics/datas
 these names:
 | GPIO | PIN | Name    | Teensy PIN | Remark |Tested|
 |:----:|:---:|---------|:----------:|--------|:-:|
-| 1    | 3   |AD_B0_3  | 0          | UART6_RX ||
-| 1    | 2   |AD_B0_2  | 1          | UART6_TX ||
+| 1    | 3   |AD_B0_3  | 0          | UART6_RX |OK|
+| 1    | 2   |AD_B0_2  | 1          | UART6_TX |OK|
 | 4    | 4   |EMC_04   | 2          |  |OK|
 | 4    | 5   |EMC_05   | 3          |  |OK|
 | 4    | 6   |EMC_06   | 4          |  |OK|
